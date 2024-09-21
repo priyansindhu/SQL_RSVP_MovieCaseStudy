@@ -10,5 +10,5 @@ The production company wants to plan their every move analytically based on data
 * **Marvel studio**, **twentieth century** and **Warner bros** are top 3 production houses based on number of votes received by their movies and can be consider as their global partner. 
 * The Top director in the top 3 genres with the highest number of superhit movies is James Mangold. He can be hired as a director for the upcoming project. 
 * Based on median rating, **Mammootty or Mohanlal** actors could be consider for next project. 
-* For Indian movies,** Tapsee pannu** and **Vijay setupathi** can be chosen for lead role actors. 
+* For Indian movies,**Tapsee pannu** and **Vijay setupathi** can be chosen for lead role actors. 
 * **Star cinema** and **Twenty century** fox have produced highest number of hits  among multilingual movies
